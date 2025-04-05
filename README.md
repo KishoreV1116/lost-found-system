@@ -29,3 +29,6 @@ Built with MySQL. Tables include:
 Let me know if you want me to upload these to your GitHub repo or zip the project folder for you!
 # lost-found-system
 git clone https://github.com/your-username/lost-found-system.git cd lost-found-system
+![output](https://github.com/user-attachments/assets/746ab22a-7e9a-4bfb-9f06-617b836a3662)
+![er infographics](https://github.com/user-attachments/assets/69a5b965-643a-4858-b5a0-afc9fa5f0d0d)
+![er diagram](https://github.com/user-attachments/assets/3327b329-5a7c-47c8-b498-94d6b9526f03)
